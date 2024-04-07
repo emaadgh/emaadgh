@@ -1,3 +1,4 @@
+### Welcome
 I'm a highly motivated Backend Software Engineer with 5+ years of C# development experience. My passion lies in building and maintaining robust web APIs using ASP.NET Core. Previously, I delved into game development, bringing with me a collaborative spirit and a knack for simplifying complex requirements.
 
 ### My Strengths:
@@ -6,6 +7,11 @@ I'm a highly motivated Backend Software Engineer with 5+ years of C# development
 🧠 10+ Years of OOP Experience  
 💉 Dependency Injection  
 ☁️ Microsoft Azure  
+
+### My Open Source Project: MyBook
+MyBook is a straightforward ASP.NET Core Web API project designed for managing book-related data. It includes Dockerized deployment, Azure integration, unit testing, and a CI/CD pipeline.
+
+Check out the [MyBook Repository](https://github.com/emaadgh/mybook) to learn more and contribute!
 
 ### Beyond the Code:
 When I'm not coding, you can find me running, reading, or exploring various music and literary genres. These hobbies keep me energized and enhance my creativity at work.

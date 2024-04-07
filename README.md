@@ -1,4 +1,3 @@
-### About Me:
 I'm a highly motivated Backend Software Engineer with 5+ years of C# development experience. My passion lies in building and maintaining robust web APIs using ASP.NET Core. Previously, I delved into game development, bringing with me a collaborative spirit and a knack for simplifying complex requirements.
 
 ### My Strengths:

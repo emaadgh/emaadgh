@@ -8,10 +8,17 @@ I'm a highly motivated Backend Software Engineer with 5+ years of C# development
 💉 Dependency Injection  
 ☁️ Microsoft Azure  
 
-### My Open Source Project: MyBook
+### My Open Source Projects: 
+
+#### 📘 MyBook
 MyBook is a straightforward ASP.NET Core Web API project designed for managing book-related data. It includes Dockerized deployment, Azure integration, unit testing, and a CI/CD pipeline.
 
-Check out the [MyBook Repository](https://github.com/emaadgh/mybook) to learn more and contribute!
+Check it out! [MyBook Repository](https://github.com/emaadgh/mybook)
+
+#### 🌐 QuickLinker: URL Shortening API
+QuickLinker is a backend service built using ASP.NET Core, designed to simplify URL management by providing API endpoints for generating and resolving shortened URLs.
+
+Check out the [QuickLinker](https://github.com/emaadgh/QuickLinker)!
 
 ### Beyond the Code:
 When I'm not coding, you can find me running, reading, or exploring various music and literary genres. These hobbies keep me energized and enhance my creativity at work.

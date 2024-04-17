@@ -10,7 +10,7 @@ I'm a highly motivated Backend Software Engineer with 5+ years of C# development
 
 ### My Open Source Projects: 
 
-#### 📘 MyBook
+#### 📘 MyBook: Book Management API
 MyBook is a straightforward ASP.NET Core Web API project designed for managing book-related data. It includes Dockerized deployment, Azure integration, unit testing, and a CI/CD pipeline.
 
 Check it out! [MyBook Repository](https://github.com/emaadgh/mybook)

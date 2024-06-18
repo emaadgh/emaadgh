@@ -17,7 +17,7 @@ I'm a highly motivated Backend Software Engineer with 5+ years of C# development
 | 📘 **MyBook**         | A straightforward ASP.NET Core Web API project designed for managing book-related data. Includes Dockerized deployment, Azure integration, unit testing, and a CI/CD pipeline. | [MyBook Repository](https://github.com/emaadgh/mybook)      
 
 ### Beyond the Code:
-When I'm not coding, you can find me running, reading, or exploring various music and literary genres. These hobbies keep me energized and enhance my creativity at work.
+When I'm not coding, you can find me running, reading, playing games, or exploring various music and literary genres. These hobbies keep me energized and enhance my creativity at work.
 
 ### Let's Connect!
 I'm eager to connect with fellow software engineers and collaborators. Let's discuss, exchange ideas, and explore potential collaborations in this ever-evolving tech landscape! 🌟

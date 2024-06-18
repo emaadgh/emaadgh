@@ -5,7 +5,7 @@ I'm a highly motivated Backend Software Engineer with 5+ years of C# development
 🚀 ASP.NET Core Proficiency  
 🤝 Teamwork (Scrum Proficient)  
 🧠 10+ Years of OOP Experience  
-📐 Domain Driven Design (DDD) & Vertical Slice Architecture  
+📐 Clean Architecture (DDD & Vertical Slice)
 ☁️ Microsoft Azure  
 
 ### My Open Source Projects: 

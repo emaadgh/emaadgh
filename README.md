@@ -5,8 +5,9 @@ I'm a Backend Software Engineer with over 5 years of experience specializing in 
 🚀 ASP.NET Core Proficiency  
 🤝 Teamwork (Scrum Proficient)  
 🧠 10+ Years of OOP Experience  
-📐 Clean Architecture (DDD & Vertical Slice)  
 ☁️ Microsoft Azure  
+📐 Clean Architecture (DDD & Vertical Slice)  
+🗄️ SQL Server & MongoDB Expertise  
 
 ### My Open Source Projects: 
 

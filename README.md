@@ -1,5 +1,5 @@
 ### Welcome
-I'm a Backend Software Engineer with over 5 years of experience specializing in C# development. My expertise lies in building and maintaining backend services using ASP.NET Core. I have a proven track record of simplifying complex requirements and delivering efficient solutions. My background in game development has honed my collaborative skills and ability to think creatively under pressure.
+I'm a Backend Software Engineer with over 5 years of experience specializing in C# software development. My expertise lies in building and maintaining backend services using ASP.NET Core. I have a proven track record of simplifying complex requirements and delivering efficient solutions. My background in game development has honed my collaborative skills and ability to think creatively under pressure.
 
 ### My Strengths:
 🚀 ASP.NET Core Proficiency  

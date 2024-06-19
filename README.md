@@ -7,7 +7,7 @@ I'm a Backend Software Engineer with over 5 years of experience specializing in 
 🧠 10+ Years of OOP Experience  
 ☁️ Microsoft Azure  
 📐 Clean Architecture (DDD & Vertical Slice)  
-🗄️ SQL Server & MongoDB Expertise  
+🗄️ SQL Server & MongoDB  
 
 ### My Open Source Projects: 
 

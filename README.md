@@ -1,13 +1,13 @@
 ### Welcome
-I'm a Backend Software Engineer with over 5 years of experience specializing in C# software development. My expertise lies in building and maintaining backend services using ASP.NET Core. I have a proven track record of simplifying complex requirements and delivering efficient solutions. My background in game development has honed my collaborative skills and ability to think creatively under pressure.
+I'm a Backend Software Engineer with over 8 years of experience specializing in C# software development, focusing on e-commerce and fintech sectors. My expertise lies in building and maintaining scalable backend services using ASP.NET Core, SQL Server, and Entity Framework Core. I have a proven track record of simplifying complex requirements and delivering efficient solutions. My diverse background in both enterprise software and game development has honed my collaborative skills and ability to think creatively under pressure.
 
 ### My Strengths:
 🚀 ASP.NET Core Proficiency  
 🤝 Teamwork (Scrum Proficient)  
 🧠 10+ Years of OOP Experience  
 ☁️ Microsoft Azure  
-📐 Clean Architecture (DDD & Vertical Slice)  
-🗄️ SQL Server & MongoDB  
+🗄️ SQL Server & MongoDB
+🧪 Testing (xUnit, Moq, FluentAssertions)
 
 ### My Open Source Projects:
 | Project              | Description                                                                                                                                                | Link                                                                |

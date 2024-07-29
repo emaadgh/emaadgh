@@ -6,7 +6,7 @@ I'm a Backend Software Engineer with over 8 years of experience specializing in 
 🤝 Teamwork (Scrum Proficient)  
 🧠 10+ Years of OOP Experience  
 ☁️ Microsoft Azure  
-🗄️ SQL Server & MongoDB
+🗄️ SQL Server & MongoDB  
 🧪 Testing (xUnit, Moq, FluentAssertions)
 
 ### My Open Source Projects:

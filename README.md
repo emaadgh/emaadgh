@@ -4,5 +4,3 @@
 | 💳 **FalconWallet**  | FalconWallet is a robust backend service built with ASP.NET Core and SQL Server to handle e-commerce digital wallets using Vertical Slice Architecture.                        | [FalconWallet Repository](https://github.com/emaadgh/FalconWallet)  |
 | 🗺️ **LocationNinja**   | LocationNinja is a powerful service designed using VSA to provide geographical details from various location-based queries. Built with ASP.NET Core and MongoDB for caching.                                | [LocationNinja Repository](https://github.com/emaadgh/LocationNinja) |
 | 🌐 **QuickLinker**    | A backend service built using ASP.NET Core to simplify URL management by providing API endpoints for generating and resolving shortened URLs.               | [QuickLinker Repository](https://github.com/emaadgh/QuickLinker)     |
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emaad1)
